@@ -40,8 +40,8 @@ a{
     font-weight: bold;
 }
 .main-nav a{
-    color:#fff;
-    background:  rgb(0, 0, 0);
+    color:#000000;
+    background:  rgb(255, 255, 255);
 }
 .page-header{
     /* display: flex;
